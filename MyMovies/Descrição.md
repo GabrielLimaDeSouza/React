@@ -1,1 +1,0 @@
-Site produzido em React que possui integração com a API da The Movie Database (TMDB) que possibilita ver os filmes mais bem avaliados da plataforma e possui uma barra de pesquisa possibilitando encontrar informações sobre determinado filme.
