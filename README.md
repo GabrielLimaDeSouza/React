@@ -1,2 +1,4 @@
 # React
-Repositório contendo projetos de estudo na biblioteca React do JavaScript
+
+### Projetos de estudo na biblioteca React do JavaScript
+
